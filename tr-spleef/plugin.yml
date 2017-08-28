@@ -1,0 +1,11 @@
+name: spleef
+version: 1.0
+description: Mini jeux
+author: ludo
+ 
+main: com.trafalcraft.ludo.Main.Main
+ 
+commands:
+  sp:
+    description: base commande for the spleef plugin
+    aliases: []
